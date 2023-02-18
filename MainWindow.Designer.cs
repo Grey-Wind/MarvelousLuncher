@@ -3,14 +3,14 @@
     partial class MainWindow
     {
         /// <summary>
-        ///  Required designer variable.
+        ///  必需的设计器变量.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        ///  清理任何正在使用的资源.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">如果要处理托管资源，则为true;否则为false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
